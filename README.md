@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dasha</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **ReactJS**
-
 - 📫 How to reach me **destowq@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
