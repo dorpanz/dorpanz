@@ -1,8 +1,71 @@
-<h1 align="center">Hi 👋, I'm Dasha</h1>
+<h1 align="center">Hi 👋, I'm Daria Ignateva</h1>
 
+<p align="center">
+🎓 Applied AI & Software Development Student <br>
+🤖 Machine Learning | Deep Learning | Data Science <br>
+📍 Toronto, Canada
+</p>
 
-- 📫 How to reach me **destowq@gmail.com**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🚀 About Me
+
+* 🎓 Advanced Diploma in Computer Programming & Analysis + Postgraduate Certificate in Applied AI Solutions (Honors, GPA 3.7+)
+* 🧠 Hands-on experience building end-to-end ML & DL pipelines across NLP, Computer Vision, and Time-Series
+* 📊 Strong focus on model evaluation, feature engineering, and real-world data problems
+* ⚙️ Interested in scalable ML systems and production-ready workflows
+
+---
+
+### 🧪 Featured Projects
+
+#### 🔹 Stock Price Prediction (Deep Learning)
+
+* Built multiple architectures: LSTM, GRU, CNN, Transformer for time-series forecasting
+* Processed 5+ years of S&P 500 data with sliding window sequence modeling
+* Evaluated models using MAE, RMSE, MAPE to compare performance vs complexity
+* Deployed interactive dashboard using Streamlit
+
+---
+
+#### 🔹 Plant Disease Detection (Computer Vision)
+
+* Trained models on 35,000+ images across 23 classes
+* Applied transfer learning (EfficientNet, ResNet50, VGG16, MobileNet)
+* Improved accuracy from ~66% baseline CNN → **~99.6% (EfficientNet)**
+* Addressed class imbalance and optimized training pipeline
+
+---
+
+#### 🔹 NLP Text Classification
+
+* Built multi-class classification pipeline using TF-IDF, Word2Vec, Doc2Vec
+* Compared models: Naive Bayes, Logistic Regression, SVM, Decision Tree
+* Achieved **~88.6% accuracy with SVM + TF-IDF**
+* Focused on preprocessing (spaCy) and model evaluation
+
+---
+
+#### 🔹 Geospatial Livability Analysis (Toronto)
+
+* Engineered composite livability score using housing, crime, transit & amenities data
+* Applied GeoPandas, spatial joins, and nearest-neighbour analysis
+* Built Power BI dashboards for neighbourhood comparison
+
+---
+
+### 🛠️ Tech Stack
+
+**ML/DL:** scikit-learn, TensorFlow, Keras, PyTorch, NLP
+**Data:** Pandas, NumPy, Feature Engineering, ETL Pipelines
+**Visualization:** Power BI, Tableau, Matplotlib, Plotly
+**Cloud & Tools:** AWS, Azure, Databricks, Docker, Git
+**Languages:** Python, SQL, Java, JavaScript, C#
+
+---
+
+### 📫 Contact
+
+* Email: [dariaignateva04@gmail.com](mailto:dariaignateva04@gmail.com)
+
+---
