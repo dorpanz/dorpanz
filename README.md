@@ -37,12 +37,12 @@
 
 ---
 
-#### 🔹 NLP Text Classification
+#### 🔹 Craft Connect – E-Commerce Platform (Full-Stack)
 
-* Built multi-class classification pipeline using TF-IDF, Word2Vec, Doc2Vec
-* Compared models: Naive Bayes, Logistic Regression, SVM, Decision Tree
-* Achieved **~88.6% accuracy with SVM + TF-IDF**
-* Focused on preprocessing (spaCy) and model evaluation
+* Collaborated on a full-stack e-commerce platform with real-time data tracking and analytics
+* Implemented features to monitor product views, sales activity, and inventory status
+* Built an admin dashboard to support data-driven decision-making for sellers and platform management
+* Integrated real-time insights to enable performance monitoring and operational efficiency
 
 ---
 
